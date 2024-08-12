@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{788DA76B-EF55-400E-8464-CA8921E1139B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Point_Of_Sale_System</RootNamespace>
+    <AssemblyName>Point Of Sale System</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="MySql.Data, Version=8.0.30.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\MySQL\MySQL Installer for Windows\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="bank_account_form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bank_account_form.Designer.cs">
+      <DependentUpon>bank_account_form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Customer_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Customer_Form.Designer.cs">
+      <DependentUpon>Customer_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard_Form.Designer.cs">
+      <DependentUpon>Dashboard_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Invoice_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Invoice_Form.Designer.cs">
+      <DependentUpon>Invoice_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductBrand.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductBrand.Designer.cs">
+      <DependentUpon>ProductBrand.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ProductForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProductForm.Designer.cs">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product_Category_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Product_Category_Form.Designer.cs">
+      <DependentUpon>Product_Category_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Purchase_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Purchase_Form.Designer.cs">
+      <DependentUpon>Purchase_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Receive_order_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Receive_order_Form.Designer.cs">
+      <DependentUpon>Receive_order_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Sale_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sale_Form.Designer.cs">
+      <DependentUpon>Sale_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Suppiler_Form.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Suppiler_Form.Designer.cs">
+      <DependentUpon>Suppiler_Form.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User.Designer.cs">
+      <DependentUpon>User.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="bank_account_form.resx">
+      <DependentUpon>bank_account_form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Customer_Form.resx">
+      <DependentUpon>Customer_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard_Form.resx">
+      <DependentUpon>Dashboard_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Invoice_Form.resx">
+      <DependentUpon>Invoice_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductBrand.resx">
+      <DependentUpon>ProductBrand.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProductForm.resx">
+      <DependentUpon>ProductForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Product_Category_Form.resx">
+      <DependentUpon>Product_Category_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Purchase_Form.resx">
+      <DependentUpon>Purchase_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Receive_order_Form.resx">
+      <DependentUpon>Receive_order_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sale_Form.resx">
+      <DependentUpon>Sale_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Suppiler_Form.resx">
+      <DependentUpon>Suppiler_Form.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User.resx">
+      <DependentUpon>User.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

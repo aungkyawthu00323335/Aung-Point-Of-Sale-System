@@ -1,0 +1,88 @@
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\Point Of Sale System.exe
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\Point Of Sale System.pdb
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.AssemblyReference.cache
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.GenerateResource.cache
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.CoreCompileInputs.cache
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point Of Sale System.pdb
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\MySql.Data.dll
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\ZstdNet.dll
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\System.Buffers.dll
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Welcome_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Product_Category_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point Of.364A0470.Up2Date
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductBrand.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.User.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductForm.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Customer_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Sale_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.bank_account_form.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Invoice_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Suppiler_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\C#Project\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Purchase_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\Point Of Sale System.exe.config
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\Point Of Sale System.exe
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\Point Of Sale System.pdb
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\MySql.Data.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\ZstdNet.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\System.Buffers.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.AssemblyReference.cache
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.bank_account_form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Customer_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Welcome_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Invoice_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductBrand.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.ProductForm.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Product_Category_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Purchase_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Receive_order_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Sale_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Suppiler_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.User.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.GenerateResource.cache
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point Of Sale System.csproj.CoreCompileInputs.cache
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point Of.364A0470.Up2Date
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point Of Sale System.exe
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point Of Sale System.pdb
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System\obj\Debug\Point_Of_Sale_System.Dashboard_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\Point Of Sale System.exe.config
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\Point Of Sale System.exe
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\Point Of Sale System.pdb
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\MySql.Data.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\ZstdNet.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\System.Buffers.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point Of Sale System.csproj.AssemblyReference.cache
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.bank_account_form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Customer_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Welcome_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Dashboard_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Invoice_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.ProductBrand.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.ProductForm.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Product_Category_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Properties.Resources.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Purchase_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Receive_order_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Sale_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.Suppiler_Form.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point_Of_Sale_System.User.resources
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point Of Sale System.csproj.GenerateResource.cache
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point Of Sale System.csproj.CoreCompileInputs.cache
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point Of.364A0470.Up2Date
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point Of Sale System.exe
+C:\Users\Aung Kyaw Thu\Desktop\Point Of Sale System - Copy (3) - Copy - Copy\obj\Debug\Point Of Sale System.pdb
